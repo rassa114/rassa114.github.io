@@ -1,37 +1,57 @@
-## Welcome to GitHub Pages
+## Råssa 1:14 en fastighet att bygga på
 
-You can use the [editor on GitHub](https://github.com/rassa114/rassa114.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+![nya delen](images/nyadelan_f_entresol_2.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Info
+[Råssa 1:14](https://minkarta.lantmateriet.se/?e=357708.8333333333&n=6395075&z=14&background=2&boundaries=true) ligger i Bollebygds kommun 1 km från påfart till Riksväg 40.
 
-### Markdown
+Fastigheten består av en verkstadslokal med yta på 650 m2 samt tillhörande kontor på 50 m2 samt ett kallförråd på 300 m2.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Det finns en asfalterad plan framför verkstaden samt hårdgjord yta för t.ex. uppställning av fordon och maskiner total 5'000 m2
 
-```markdown
-Syntax highlighted code block
+### Verkstadslokalen - nya delen
+Nya delen är en lokal på 380 m2 i markplan med en minsta takhöjd på 6m och en fullhöjdsport på 4,5m.
+I lokalen finns två områden med kraftigt byggda entresolplan samt travers som behöver besiktigas.
 
-# Header 1
-## Header 2
-### Header 3
+Foto av nya delen från entresol:
+![Nya delen från entresol](images/nyadelan_f_entresol_1.jpg)
 
-- Bulleted
-- List
+[Klicka för att se panoramavy av nya lokalen](images/nya_delen_markhojd.jpg)
 
-1. Numbered
-2. List
+[Klicka för en vandring genom lokalen](images/lokalen.mp4)
+### Verkstadslokalen - nya delen
+Gamla delen är en lokal på 270 m2 i markplan med en takhöjd på 5m och en fullhöjdsport på 4,5m.
+I lokalen finns ett kraftigt byggt entresolplan.
+I anslutning finns lunchrum/omklädningsrum samt kontor 
 
-**Bold** and _Italic_ and `Code` text
+Vy på gamla delen från entresol:
+![Gamla delen från entresol](images/gamla_lokalen_entresol.jpg)
+[Klicka för att se panoramavy av gamla lokalen](images/gamla_lokalen_markhojd.jpg)
 
-[Link](url) and ![Image](src)
-```
+[Klicka för en vandring genom lokalen](images/lokalen.mp4)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Utsidan
 
-### Jekyll Themes
+Vy från infarten:
+![Vy från infart](images/utsida_infart.jpg)
+(fler bilder kommer när utflyttningen slutförts på ytan för uppställning av fordon/maskiner)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rassa114/rassa114.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Kontor
+Ingång till kontoret:
+![Kontor](images/kontor.jpg)
 
-### Support or Contact
+### Lunchrum
+![Lunchrum](images/lunchrum.jpg)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Omklädning
+Omklädningsrum med dusch och plats för skåp
+![Omklädningsrum](images/omkladningsrum.jpg)
+
+### Kallförråd - Boa
+Ett 300m2 kallförråd med el.
+(bilder kommer när lokalen tömts)
+
+### Kontakt
+Välkommen att kontakta oss på W-Mek Värmeteknik\
+[Johan Wranker](mailto:wmek@wranker.org) 0708-613124\
+[Stefan Munthe](mailto:stefan.munthe@gmail.com) 0739-103731
